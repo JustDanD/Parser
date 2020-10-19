@@ -1,0 +1,13 @@
+{
+  	"Wednesday": {
+      "Numofles": "1",
+      "lesson1": {
+            "Subject": "English",
+            "starttime": "11:40",
+            "endingtime": "13:10",
+            "room": "-",
+            "street": "Ул. Ломоносова, д.9, лит. Е",
+            "classformat": "distance"
+      }
+	}
+}

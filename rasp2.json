@@ -1,0 +1,29 @@
+{
+  	"Monday": {
+      "Numofles": "3"
+      "lesson1": {
+            "Subject": "Physics(Lec)"
+            "starttime": "11:40"
+            "endingtime": "13:10"
+            "room": "550"
+            "street": "Биржевая линия, д.16, лит.А"
+            "classformat": "Сlass"
+      }
+      "lesson2": {
+            "Subject": "Physics(Prac)"
+            "starttime": "13:30"
+            "endingtime": "15:00"
+            "room": "539"
+            "street": "Биржевая линия, д.16, лит.А"
+            "classformat": "Сlass"
+      }
+      "lesson3": {
+            "Subject": "Physics(Prac)"
+            "starttime": "13:30"
+            "endingtime": "15:00"
+            "room": "539"
+            "street": "Биржевая линия, д.16, лит.А"
+            "classformat": "Сlass"
+      }
+	}
+}

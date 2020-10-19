@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<day name="Monday">
+  <lesson subject="Physics(Lec)" starttime="11:40" endingtime="13:10" room="550" street="Биржевая линия д.16 лит.А" classformat="Сlass">
+  <lesson subject="Physics(Prac)" starttime="13:30" endingtime="15:00" room="539" street="Биржевая линия д.16 лит.А" classformat="Сlass">
+  <lesson subject="Physics(Prac)" starttime="13:30" endingtime="15:00" room="539" street="Биржевая линия д.16 лит.А" classformat="Сlass">
+</day>
